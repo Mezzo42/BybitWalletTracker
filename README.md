@@ -19,7 +19,7 @@ Repository klonen:
 
 bash
 Code kopieren
-git clone https://github.com/deinbenutzername/BybitWalletTracker.git
+git clone https://github.com/mezzo42/BybitWalletTracker.git
 cd BybitWalletTracker
 Abhängigkeiten installieren:
 
