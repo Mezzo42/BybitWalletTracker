@@ -14,35 +14,13 @@ Die folgenden Python-Pakete:
 tkinter (in der Regel vorinstalliert)
 matplotlib
 pybit (Python-Bibliothek zur Interaktion mit der Bybit API)
-Installation
-Repository klonen:
 
-cd BybitWalletTracker
-Abhängigkeiten installieren:
-
-bash
-Code kopieren
-pip install matplotlib pybit
-API-Schlüssel hinzufügen: Erstelle eine Datei api.py im Projektordner und füge deine Bybit API-Schlüssel wie folgt hinzu:
-
-python
-Code kopieren
-from pybit.unified_trading import HTTP
 
 # Deine API-Schlüssel
 API_KEY = "dein_api_schluessel"
 API_SECRET = "dein_api_geheimnis"
 
-session = HTTP(
-    testnet=False,  # Setze auf True für Testnet
-    api_key=API_KEY,
-    api_secret=API_SECRET,
-)
-Verwendung
-Anwendung starten:
-
-bash
-Code kopieren
+bash Code kopieren
 python gui.py
 Coin auswählen: Wähle die gewünschte Kryptowährung aus der Dropdown-Liste aus.
 
