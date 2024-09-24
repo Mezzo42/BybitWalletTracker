@@ -17,9 +17,6 @@ pybit (Python-Bibliothek zur Interaktion mit der Bybit API)
 Installation
 Repository klonen:
 
-bash
-Code kopieren
-git clone https://github.com/mezzo42/BybitWalletTracker.git
 cd BybitWalletTracker
 Abhängigkeiten installieren:
 
