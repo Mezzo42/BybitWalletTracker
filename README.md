@@ -20,18 +20,18 @@ pybit (Python-Bibliothek zur Interaktion mit der Bybit API)
 API_KEY = "dein_api_schluessel"
 API_SECRET = "dein_api_geheimnis"
 
-#bash Code kopieren
+# bash Code kopieren
 python gui.py
 Coin auswählen: Wähle die gewünschte Kryptowährung aus der Dropdown-Liste aus.
 
 Positionsinformationen abrufen: Klicke auf den Button "Positionsinformationen abrufen", um die aktuellen Positionen und Wallet-Bilanzen anzuzeigen.
 
-#Beitrag
+# Beitrag
 Beiträge sind willkommen! Bitte erstelle einen Pull-Request oder öffne ein Issue, um Vorschläge oder Fehlerberichte zu teilen.
 
-#Lizenz
+# Lizenz
 Dieses Projekt ist lizenziert und darf nur zum Privatgebrauch genutzt werden.
 
-#Kontakt
+# Kontakt
 Für Fragen oder Anfragen kannst du mich über GitHub kontaktieren.
 
