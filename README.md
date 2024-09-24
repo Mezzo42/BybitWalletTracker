@@ -22,6 +22,7 @@ API_SECRET = "dein_api_geheimnis"
 
 # bash Code kopieren
 python gui.py
+
 Coin auswählen: Wähle die gewünschte Kryptowährung aus der Dropdown-Liste aus.
 
 Positionsinformationen abrufen: Klicke auf den Button "Positionsinformationen abrufen", um die aktuellen Positionen und Wallet-Bilanzen anzuzeigen.
