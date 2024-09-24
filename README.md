@@ -8,6 +8,8 @@ Echtzeit Wallet-Balance: Zeigt die aktuellen Wallet-Bilanzen für ausgewählte K
 Positionsinformationen: Zeigt Informationen über offene Positionen auf Bybit an.
 Einfache Benutzeroberfläche: Intuitive GUI zur Auswahl von Coins und zum Abrufen von Daten.
 Visualisierung: Diagramm zur Anzeige von Preistrends in Echtzeit.
+Coin auswählen: Wähle die gewünschte Kryptowährung aus der Dropdown-Liste aus.
+Positionsinformationen abrufen: Klicke auf den Button "Positionsinformationen abrufen", um die aktuellen Positionen und Wallet-Bilanzen anzuzeigen.
 Voraussetzungen
 Python 3.7 oder höher
 Die folgenden Python-Pakete:
@@ -22,10 +24,6 @@ API_SECRET = "dein_api_geheimnis"
 
 # bash Code kopieren
 python gui.py
-
-Coin auswählen: Wähle die gewünschte Kryptowährung aus der Dropdown-Liste aus.
-
-Positionsinformationen abrufen: Klicke auf den Button "Positionsinformationen abrufen", um die aktuellen Positionen und Wallet-Bilanzen anzuzeigen.
 
 # Beitrag
 Beiträge sind willkommen! Bitte erstelle einen Pull-Request oder öffne ein Issue, um Vorschläge oder Fehlerberichte zu teilen.
