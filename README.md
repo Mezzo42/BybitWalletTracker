@@ -3,7 +3,7 @@ Bybit Wallet Tracker
 Übersicht
 Der Bybit Wallet Tracker ist eine Desktop-Anwendung zur Überwachung von Wallet-Bilanzen und offenen Positionen auf der Bybit-Krypto-Börse. Die Anwendung ermöglicht es Benutzern, Echtzeitdaten zu ihrem Portfolio abzurufen und anzuzeigen, einschließlich Wallet-Bilanzen und Positionsinformationen für verschiedene Kryptowährungen.
 
-#Funktionen
+# Funktionen
 Echtzeit Wallet-Balance: Zeigt die aktuellen Wallet-Bilanzen für ausgewählte Kryptowährungen an.
 Positionsinformationen: Zeigt Informationen über offene Positionen auf Bybit an.
 Einfache Benutzeroberfläche: Intuitive GUI zur Auswahl von Coins und zum Abrufen von Daten.
